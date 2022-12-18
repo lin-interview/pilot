@@ -1,4 +1,4 @@
-- ## Pre-requisites
+## Pre-requisites
 
 Node JS
 
