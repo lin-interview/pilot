@@ -1,0 +1,17 @@
+{
+  "cucumberautocomplete.steps": ["cypress/e2e/**/*.js", "cypress/support/**/*.js"],
+  "cucumberautocomplete.strictGherkinCompletion": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "git.ignoreLimitWarning": true,
+  "editor.formatOnSave": true,
+  "[javascript][json][jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[feature]": {
+    "editor.defaultFormatter": "alexkrechik.cucumberautocomplete"
+  }
+}
